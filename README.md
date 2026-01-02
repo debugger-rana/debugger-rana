@@ -78,18 +78,6 @@ and writing clean, maintainable code.
 
 ---
 
-## 📊 GitHub Analytics (FIXED & WORKING)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debugger-rana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=debugger-rana&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugger-rana&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🤝 Let’s Connect
 I’m always open to discussing **software engineering, projects, internships, or opportunities**.
@@ -101,6 +89,4 @@ I’m always open to discussing **software engineering, projects, internships, o
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=debugger-rana&icon=0&color=12"/>
-</p>
+
