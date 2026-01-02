@@ -187,6 +187,8 @@ const rana = {
   <img src="https://raw.githubusercontent.com/debugger-rana/debugger-rana/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+> **Note**: The snake animation is generated automatically by GitHub Actions and may take a few minutes to appear after the first workflow run.
+
 ---
 
 ## 🤝 Let's Connect & Collaborate!
