@@ -84,7 +84,7 @@ const rana = {
 ## 🧠 Core Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,java,python,cpp,git,github,docker,tailwind,bootstrap,postman&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,java,python,git,github,docker,tailwind,bootstrap,postman&perline=9" alt="Tech Stack" />
 </p>
 
 ### 💡 What I Bring to the Table
